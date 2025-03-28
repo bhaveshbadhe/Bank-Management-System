@@ -1,0 +1,3 @@
+@startuml
+!define table(x) class x << (T,#FFAAAA) >>
+@enduml
